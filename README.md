@@ -22,9 +22,10 @@ Here are some ideas to get you started:
 ✨ I am a final year CSE undergraduate  at IIT Bhubaneswar.
 </li>
 <li>
-    🌱 I’m currently learning
+    🌱 I’m currently exploring
     <ul>
-	    <li>Solidity and Smart Contracts on Ethereum</li>
+	    <li>IPFS and decentralized web</li>
+	    <li> Solidity and Smart Contracts on Ethereum</li>
     </ul>
 </li>
 <li>
