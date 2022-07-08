@@ -1,8 +1,10 @@
 <h3 align="center"> 👋 Hi there! I'm Kishore </h3>
 <p align="center">
-<a href="mailto:kishorereddykancherla@gmail.com" target="_blank"> kishorereddykancherla@gmail.com</a>
+<a href="mailto:kishorereddykancherla+github@gmail.com" target="_blank"> kishorereddykancherla@gmail.com</a>
 &nbsp;&nbsp; | &nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/kkishorereddy/" target="_blank"> LinkedIn</a>
+<a href="https://drive.google.com/file/d/1uMVFkDvZK0-xJFSlm6oUAmo-QHmL30cT/view?usp=sharing" target="_blank"> Resume</a>
+&nbsp;&nbsp; | &nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/kkishorereddy" target="_blank"> LInkedIn</a>
 </p>
 
 ---
