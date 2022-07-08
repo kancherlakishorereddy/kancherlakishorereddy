@@ -19,26 +19,23 @@ Here are some ideas to get you started:
 -->
 <ul>
 <li>
-✨ I am a final year CSE undergraduate  at IIT Bhubaneswar.
+✨ I am a CSE undergraduate from IIT Bhubaneswar.
 </li>
 <li>
-    🌱 I’m currently exploring
-    <ul>
-	    <li>IPFS and decentralized web</li>
-	    <li> Solidity and Smart Contracts on Ethereum</li>
-    </ul>
+    🌱 Currently exploring Go and Rust, learning hands-on the reasons behind their popularity.
 </li>
 <li>
-    🔭 I previously worked on
+    🔭 I have experience in
     <ul>
+      <li>Backend Development: SpringBoot, Node.js, Nest.js</li>
       <li>Frontend Development: React.js, Redux.js</li>
-      <li>Backend Development: Node.js, Nest.js</li>
     </ul>
 </li>
 <li>
     💡 I've also explored
     <ul>
-      <li>Machine Learning with focus on Supervised and Unsupervised Learning</li>
+      <li>IPFS and Ethereum </li>
+      <li>A little bit of Machine Learning</li>
     </ul>
 </li>
 </ul>
